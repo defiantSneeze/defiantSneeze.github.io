@@ -1,13 +1,10 @@
-th {
-    border: 1px solid black;
-    border-collapse: separate;
-    border-spacing: 3px;
-    padding: 3px;
+table {
+    width: 100%;
 }
 
-td {
+table, th, td {
     border: 1px solid black;
-    border-collapse: separate;
-    border-spacing: 3px;
+    border-collapse: collapse;
+    /*border-spacing: 3px;*/
     padding: 3px;
 }
