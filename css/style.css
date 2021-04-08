@@ -2,10 +2,14 @@ table {
     width: 100%;
 }
 
+th, td {
+    text-align: center;
+}
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
     /*border-spacing: 3px;*/
     padding: 3px;
-    text-align: center;
+    
 }
