@@ -39,6 +39,11 @@ body, html {
     background-color: bisque;
 }
 
+#body_below_nav {
+    position: relative;
+    top: 10px;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
