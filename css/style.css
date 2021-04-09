@@ -3,6 +3,13 @@ body, html {
     height: 100%;
 }
 
+#kimg {
+    border-radius: 20%;
+    border: 1px, solid, black;
+    padding: 5px;
+    width: 10%;
+}
+
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url("img/hero.jpg"));
     height: 50%;
