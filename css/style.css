@@ -4,7 +4,7 @@ body, html {
 }
 
 .hero-image {
-    background-image: linear-gradient(url(img\hero.jpg));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url("img\\hero.jpg"));
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
