@@ -13,3 +13,4 @@ Except for the h1 and h2 elements;
 for those I imported a nice google font called 'New Tegomin'
 by using link tags in the html document.
 
+I've added a hero image.  Nothing too fancy.
