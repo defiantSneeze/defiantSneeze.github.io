@@ -1,7 +1,7 @@
 body, html {
     font-family: sans-serif;
     height: 100%;
-    background: lemonchiffon url("bgimg.jpeg") repeat fixed center;
+    background: lemonchiffon url("img/bgimg.jpeg") repeat fixed center;
     background-size: cover;
 }
 
@@ -78,6 +78,10 @@ body, html {
     width: 100%;
     z-index: 3;
     color: #FF8C00;
+}
+
+.bottomfoot p {
+    left: 50px;
 }
 
 img {
