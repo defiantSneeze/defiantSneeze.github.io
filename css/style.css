@@ -72,6 +72,15 @@ body, html {
     color: white;
 }
 
+.bottomfoot {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+}
+
 img {
     border-radius: 5px;
     border: 1px solid black;
