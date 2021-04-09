@@ -4,12 +4,10 @@ table {
 
 th, td {
     text-align: center;
+    padding: 3px;
+    margin: 3px;
 }
 
 table, th, td {
     border: 1px solid black;
-    border-collapse: collapse;
-    /*border-spacing: 3px;*/
-    padding: 3px;
-    
 }
