@@ -26,8 +26,8 @@ I have set a nice background color for the page.
 
 Hyperlinks only underlined when hovered upon.
 
-
+I have indented the Haiku
 
 I have styled the weekly schedule to highlight my courses.
 
-I'm going to add a favicon
+I have added a favicon
