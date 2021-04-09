@@ -70,8 +70,8 @@ img {
     border-radius: 5px;
     border: 1px solid black;
     padding: 5px;
-    width: 300px;
-    height: auto;
+    width: auto;
+    height: 40%;
     position: relative;
     top: 10px;
     left: 10px;
