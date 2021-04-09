@@ -1,3 +1,12 @@
+@font-face {
+    font-family: kadosFont;
+    src: url(https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap);
+}
+
+h1, h2 {
+    font-family: kadosFont, sans-serif;
+}
+
 table {
     width: 100%;
 }
