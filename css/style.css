@@ -40,8 +40,8 @@ body, html {
 }
 
 #body_below_nav {
-    position: relative;
-    top: 10px;
+    position: absolute;
+    top: 50px;
 }
 
 .topnav {
