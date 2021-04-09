@@ -7,8 +7,36 @@ body, html {
     background-size: cover;
 }
 
-.course {
-    background-color: firebrick;
+.course_a {
+    background-color: royalblue;
+}
+
+.course_b {
+    background-color: seagreen;
+}
+
+.course_c {
+    background-color: salmon;
+}
+
+.course_d {
+    background-color: orange;
+}
+
+.work {
+    background-color: silver;
+}
+
+.nonwork {
+    background-color: navajowhite;
+}
+
+.semicourse {
+    background-color: slategray;
+}
+
+.play {
+
 }
 
 .topnav {
@@ -41,6 +69,9 @@ img {
     padding: 5px;
     width: 300px;
     height: auto;
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
 
 .hero-image {
