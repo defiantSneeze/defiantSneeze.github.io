@@ -2,7 +2,7 @@ body, html {
     font-family: sans-serif;
     height: 100%;
     background-color: #ffcc99;
-    background-image: url("img\\hero.jpg");
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Forange%2520background%2F&psig=AOvVaw3wXcFkkVIAHnmkjv440TVZ&ust=1618087164673000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD168eC8u8CFQAAAAAdAAAAABAD");
     background-repeat: repeat;
     background-size: cover;
 }
@@ -122,4 +122,12 @@ th, td {
 
 table, th, td {
     border: 1px solid black;
+}
+
+.as {
+    text-decoration: none;
+}
+
+.as:hover {
+    text-decoration: underline;
 }

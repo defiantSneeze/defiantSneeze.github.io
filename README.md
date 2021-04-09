@@ -15,7 +15,7 @@ by using link tags in the html document.
 
 I've added a hero image from an external URL.  Nothing too fancy.
 
-I'm currently working on a sticky nav bar with auto highlights.
+I've added a sticky nav bar with highlights.
 
 Will create a footer with "Copyright (C) 2021 - Kayden Stevens"
 which uses an html entity got the copyright symbol and the em-dash.
@@ -24,7 +24,7 @@ Hyperlinks will only be underlined when hovered upon.
 
 I'm going to set a repeating background image.
 
-I'm going to style the weekly schedule to highlight my classes.
+I have styled the weekly schedule to highlight my courses.
 
 I'm going to add a favicon
 
