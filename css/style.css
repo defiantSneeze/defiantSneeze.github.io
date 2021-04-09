@@ -4,10 +4,10 @@ body, html {
 }
 
 #kimg {
-    border-radius: 20%;
+    border-radius: 50%;
     border: 1px, solid, black;
     padding: 5px;
-    width: 50%;
+    width: 10%;
     height: auto;
 }
 
