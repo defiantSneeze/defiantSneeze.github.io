@@ -7,6 +7,10 @@ body, html {
     background-size: cover;
 }
 
+.course {
+    background-color: firebrick;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
