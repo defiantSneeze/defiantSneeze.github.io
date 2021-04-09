@@ -13,14 +13,12 @@ Except for the h1 and h2 elements;
 for those I imported a nice google font called 'New Tegomin'
 by using link tags in the html document.
 
-I've added a hero image.  Nothing too fancy.  Needs work.
+I've added a hero image from an external URL.  Nothing too fancy.
 
 I'm currently working on a sticky nav bar with auto highlights.
 
 Will create a footer with "Copyright (C) 2021 - Kayden Stevens"
 which uses an html entity got the copyright symbol and the em-dash.
-
-I'm going to center my haiku on the page.
 
 Hyperlinks will only be underlined when hovered upon.
 

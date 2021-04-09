@@ -2,7 +2,7 @@ body, html {
     font-family: sans-serif;
     height: 100%;
     background-color: #ffcc99;
-    background-image: url("img/my_picture.jpeg");
+    background-image: url("img\\hero.jpg");
     background-repeat: repeat;
     background-size: cover;
 }
