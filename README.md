@@ -20,14 +20,12 @@ I've added a sticky nav bar with highlights.
 I've created a footer with "Copyright (C) 2021 - Kayden Stevens"
 which uses an html entity for the copyright symbol and the em-dash.
 
-I have set a repeating background image from google images, 
-hopefully the rediculous URL doesn't break, but if so 
-I have set a nice background color for the page.
+My background image isn't working.
 
 Hyperlinks only underlined when hovered upon.
 
-I have indented the Haiku
+I have indented the Haiku.
 
 I have styled the weekly schedule to highlight my courses.
 
-I have added a favicon
+I have added a favicon.

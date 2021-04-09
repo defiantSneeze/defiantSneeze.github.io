@@ -144,6 +144,6 @@ table, th, td {
     text-decoration: underline;
 }
 
-#haiku {
+#haiku i {
     text-indent: 50px;
 }
