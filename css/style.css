@@ -1,9 +1,7 @@
 body, html {
     font-family: sans-serif;
     height: 100%;
-    background-color: #ffcc99;
-    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Forange%2520background%2F&psig=AOvVaw3wXcFkkVIAHnmkjv440TVZ&ust=1618087164673000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD168eC8u8CFQAAAAAdAAAAABAD");
-    background-repeat: repeat;
+    background: lemonchiffon url("bgimg.jpeg") repeat fixed center;
     background-size: cover;
 }
 
@@ -76,9 +74,10 @@ body, html {
     background-color: #333;
     overflow: hidden;
     position: fixed;
-    top: 0;
+    bottom: 0;
     width: 100%;
     z-index: 3;
+    color: #FF8C00;
 }
 
 img {
