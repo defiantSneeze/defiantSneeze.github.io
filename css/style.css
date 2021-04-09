@@ -3,8 +3,12 @@
     src: url(https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap);
 }
 
+html {
+    font-family: sans-serif;
+}
+
 h1, h2 {
-    font-family: kadosFont, sans-serif;
+    font-family: kadosFont;
 }
 
 table {
