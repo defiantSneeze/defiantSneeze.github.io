@@ -1,10 +1,10 @@
-# Windows
+# Windows...
 Thumbs.db
 Desktop.ini
 
-#Mac
+#Mac...
 .DS_Store
 
-#General
+#General...
 .vs
 .vscode

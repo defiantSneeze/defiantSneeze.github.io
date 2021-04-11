@@ -20,7 +20,7 @@ I've added a sticky nav bar with highlights.
 I've created a footer with "Copyright (C) 2021 - Kayden Stevens"
 which uses an html entity for the copyright symbol and the em-dash.
 
-My background image isn't working.  Can you tell me why?
+My background image isn't working.  Can you tell me why??
 
 Hyperlinks only underlined when hovered upon.
 

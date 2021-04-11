@@ -143,9 +143,3 @@ table, th, td {
 .as:hover {
     text-decoration: underline;
 }
-
-.haiku {
-    display: inline-block;
-    width: 200px;
-    text-align: center;  
-}
