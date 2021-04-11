@@ -145,5 +145,6 @@ table, th, td {
 }
 
 .haiku {
-    text-indent: 50px;
+    left: 50px;
+    border: 2px solid red;
 }
