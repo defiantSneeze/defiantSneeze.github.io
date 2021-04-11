@@ -147,6 +147,5 @@ table, th, td {
 .haiku {
     display: inline-block;
     width: 200px;
-    text-align: center;
-    border: 2px solid red;   
+    text-align: center;  
 }

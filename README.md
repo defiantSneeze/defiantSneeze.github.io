@@ -24,8 +24,6 @@ My background image isn't working.  Can you tell me why?
 
 Hyperlinks only underlined when hovered upon.
 
-I have indented the Haiku.
-
 I have styled the weekly schedule to highlight my courses.
 
 I have added a favicon.
